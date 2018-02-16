@@ -123,8 +123,8 @@ p {
 
 .pHnumbers{
   position: absolute;
-  padding-top: 5px;
-  left: 36%;
+  padding-top: 10px;
+  left: 40%;
   font-weight: 900;
   color: gray;
   font-size: 20px;
@@ -137,7 +137,7 @@ p {
 
 .pboxfont{
   position: absolute;
-  padding-top: 5px;
+  padding-top: 10px;
   left: 50%;
   color: dimgray;
 } 
