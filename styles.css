@@ -84,17 +84,18 @@ p {
   width: 33%;
 }
 
-#article{
+.article{
   position: absolute;
   background: gray;
   margin-left: 11%;
-  margin-top: 27.5%;
+  margin-top: 20%;
   height: 160px;
   width: 43%;
   z-index: 2;
 }
+
 .particle{
-  position: absolute;
+  position:absolute;
   padding-top: 15px;
   left: 45%;
   color: whitesmoke;
